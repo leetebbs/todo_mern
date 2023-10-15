@@ -2,7 +2,7 @@ import { useState, createContext, useContext, } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "./components/Login.jsx";
 import Todo from "./components/todo.jsx";
-import Register from "./components/register.jsx";
+import Register from "./components/Register.jsx";
 import "./App.css";
 
 
